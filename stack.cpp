@@ -9,7 +9,7 @@ int top = 0;
 
 bool isEmpty() {
     if (top == 0)
-    
+    {
         return true;
     } else {
         return false;
