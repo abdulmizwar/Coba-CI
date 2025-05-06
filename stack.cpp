@@ -6,7 +6,7 @@ using namespace std;
 string dataBuku[max];
 int top = 0;
 
-//fungsi untuk cek data kosong menggunakan fungsi isEmpty()
+
 bool isEmpty() {
     if (top == 0)
     {
